@@ -6893,8 +6893,8 @@ html[dir=rtl] .tns-visually-hidden {
     line-height: 33px;
     border-radius: 6px;
     text-align: center;
-    background: #0000;
-    color: #fff!important
+    background: #e91e63;
+    color:  #060606!important;
 }
 
 .back-to-top .icons {
